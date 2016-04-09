@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "deploy": "surge public"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
